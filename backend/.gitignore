@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.db
+.env
+frontend/node_modules/
+frontend/dist/
+UNDERSTANDME.md
